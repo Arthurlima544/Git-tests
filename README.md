@@ -41,7 +41,7 @@ git clone https://github.com/NOME-USER/NOME-REPO
         git push origin master
 
         "origin" usado pelo git, para indicar o repositório remoto, por exemplo, o repositório GitHub, e "master" para branch principal.
-        
+
     - Pull:
         Para atualizar seu repositório local.
 
@@ -49,7 +49,11 @@ git clone https://github.com/NOME-USER/NOME-REPO
 
         Em seguida, o comando pull atualiza os arquivos do diretório de trabalho. Essa operação é chamada de merge
 
+- Conflitos de Merge
+    Conflitos de merge acontecem quando dois desenvolvedores alteram o mesmo trecho de código ao mesmo tempo
 
+continua em:
+https://www.notion.so/Git-9fb79e3bdd4a4253b8a3d815c81819f6
 # References
 
 - https://engsoftmoderna.info/capAp.html
