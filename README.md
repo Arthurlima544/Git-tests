@@ -1,2 +1,3 @@
 # Git-tests
-testando merge no gihub
+
+- Learning How to use Git advanced concepts.
