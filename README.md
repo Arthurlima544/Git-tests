@@ -33,6 +33,22 @@ git clone https://github.com/NOME-USER/NOME-REPO
     - Log mostra: 
         Ultimos commits.
 
+- Push & Pull:
+
+    - Push :
+        push copia os commits mais recentes do repositório local para o repositório remoto.
+
+        git push origin master
+
+        "origin" usado pelo git, para indicar o repositório remoto, por exemplo, o repositório GitHub, e "master" para branch principal.
+        
+    - Pull:
+        Para atualizar seu repositório local.
+
+        Primeiro, um pull copia os commits mais recentes do repositório central para o repositório local do desenvolvedor. Essa operação inicial é chamada de fetch.
+
+        Em seguida, o comando pull atualiza os arquivos do diretório de trabalho. Essa operação é chamada de merge
+
 
 # References
 
