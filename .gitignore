@@ -1,0 +1,9 @@
+## Ignorar toda a pasta grandle
+
+grandle/
+
+## Ignorar todos arquivos txt
+android/**/*.txt
+
+## Ignorar arquivo arq2.txt
+## android/**/arq2.txt
