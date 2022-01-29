@@ -52,6 +52,8 @@ git clone https://github.com/NOME-USER/NOME-REPO
 - Conflitos de Merge
     Conflitos de merge acontecem quando dois desenvolvedores alteram o mesmo trecho de código ao mesmo tempo
 
+alteração
+
 continua em:
 https://www.notion.so/Git-9fb79e3bdd4a4253b8a3d815c81819f6
 # References
